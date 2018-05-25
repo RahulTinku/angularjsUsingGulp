@@ -18,6 +18,12 @@ gulp start
 ```
 open [localhost](http://localhost:3000/#!/) to see the application
 
+## Testing
+Karma is used with Jasmin to test this application.
+```
+karma start
+```
+
 ## Author
 Rahul Kumar
 
