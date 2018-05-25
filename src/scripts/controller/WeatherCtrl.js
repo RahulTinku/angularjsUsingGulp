@@ -9,5 +9,5 @@ app.controller('WeatherCtrl', ['$scope', 'WeatherService',function($scope, Weath
 			}, function(error) {
 				console.log('error : ', error);
 			});
-	}
-}])
+	};
+}]);
